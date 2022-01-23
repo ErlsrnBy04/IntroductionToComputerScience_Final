@@ -1,0 +1,2 @@
+# IntroductionToComputerScience_Final
+本项目是西安交通大学2021秋计算机导论大作业，使用html5+css3完成，因为时间限制，仅仅完成了基本的结构，后续可以进一步美化
